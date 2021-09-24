@@ -3,7 +3,6 @@ I'm Zach Elkins!
 
 [![Zach's Wensite](https://img.shields.io/badge/Personal_Site-gray?style=flat&logo=github&link=ZachElkins.github.io/zelkins.com)](https://zelkins.com/)
 [![zach.elkins@gmail.com e-mail](https://img.shields.io/badge/Gmail-zach.elkins@gmail.com-red?style=flat&logo=gmail&link=mailto:zach.elkins@gmail.com)](mailto:zach.elkins@gmail.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 ![Profile views](https://gpvc.arturio.dev/ZachElkins)
 
 
